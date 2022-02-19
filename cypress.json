@@ -1,0 +1,13 @@
+{
+
+    "env":{
+        "username":"pratik",
+        "password":"cubewise@123"
+    },
+    "reporter": "../node_modules/mochawesome/src/mochawesome.js",
+    "reporterOptions": {
+        "overwrite": false,
+        "html": true,
+        "json": false
+    }
+}
